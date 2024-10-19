@@ -7,7 +7,6 @@
 <h3>Languages:</h3>
 <a href="https://github.com/alper92/"><img src="https://github.com/alper92/alper92/blob/main/img/js.svg" alt="JavaScript"></a>
 <a href="https://github.com/alper92/"><img src="https://github.com/alper92/alper92/blob/main/img/typescript.svg" alt="TypeScript"></a>
-<a href="https://github.com/alper92/"><img src="https://github.com/alper92/alper92/blob/main/img/ruby.svg" alt="Ruby"></a>
 <h3>Technologies / Frameworks / Tools:</h3>
 <a href="https://github.com/alper92/"><img src="https://github.com/alper92/alper92/blob/main/img/html.svg" alt="HTML5"></a>
 <a href="https://github.com/alper92/"><img src="https://github.com/alper92/alper92/blob/main/img/css3.svg" alt="CSS3"></a>
