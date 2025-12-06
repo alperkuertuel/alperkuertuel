@@ -20,9 +20,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<br />
-<p>
-  <details>
-      <a href="https://github.com/alperkuertuel/"><img src="https://github-readme-stats.vercel.app/api?username=alperkuertuel&theme=graywhite" alt="my stats"></a>
-  </details>
-</p>
