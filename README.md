@@ -16,3 +16,8 @@ I'm currently learning web development.
 ### 🧪 Testing Tools
 - Cypress
 - Robot Framework + Python + Playwright
+
+---
+
+### 🧰 IDE
+- Visual Studio Code
