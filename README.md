@@ -21,3 +21,9 @@ I'm currently learning web development.
 
 ### 🧰 IDE
 - Visual Studio Code
+
+---
+
+### 🧠 AI Tools
+- Kiro
+- Opencode
